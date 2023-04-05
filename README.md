@@ -5,4 +5,4 @@ This is the Website to **http://technikag.mywire.org/**
 <br>
 <br>
 
-![](image.png)
+<p style="text-align: center;">####ᴛᴇᴄʜɴɪᴋ ᴀɢ</p>
